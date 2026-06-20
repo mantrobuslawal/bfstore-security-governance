@@ -1,22 +1,22 @@
-    # bfstore Security Governance
+# bfstore Security Governance
 
-    Security governance and DevSecOps controls for bfstore, including policy-as-code, supply-chain security, scanning, least privilege, threat modelling, and platform guardrails.
+Security governance and DevSecOps controls for bfstore, including policy-as-code, supply-chain security, scanning, least privilege, threat modelling, and platform guardrails.
 
-    ## Repository status
+## Repository status
 
-    This repository is an early bfstore portfolio repository. It is currently being set up with initial structure, documentation, and direction before implementation work begins.
+This repository is an early bfstore portfolio repository. It is currently being set up with initial structure, documentation, and direction before implementation work begins.
 
-    ## Purpose
+## Purpose
 
-    This repository will hold security, governance, compliance, and policy guidance for the bfstore platform.
+This repository will hold security, governance, compliance, and policy guidance for the bfstore platform.
 
-    bfstore is a cloud-native ecommerce platform for developer-themed homeware. This repository is part of the wider bfstore portfolio and is intended to demonstrate senior platform engineering, DevSecOps, Kubernetes, cloud infrastructure, and developer experience capability.
+bfstore is a cloud-native ecommerce platform for developer-themed homeware. This repository is part of the wider bfstore portfolio and is intended to demonstrate senior platform engineering, DevSecOps, Kubernetes, cloud infrastructure, and developer experience capability.
 
-    ## Scope
+## Scope
 
-    This repository will cover:
+This repository will cover:
 
-    - Policy-as-code examples
+- Policy-as-code examples
 - Supply-chain security guidance
 - Container and dependency scanning strategy
 - Least-privilege standards
@@ -35,7 +35,7 @@
 
     ## Suggested repository structure
 
-    - `policies/             # Policy-as-code rules and examples`
+- `policies/             # Policy-as-code rules and examples`
 - `docs/                 # Security standards, ADRs, and guidance`
 - `threat-models/        # Threat modelling artefacts`
 - `examples/             # Example policy checks and workflows`
@@ -43,7 +43,7 @@
 
     ## Initial roadmap
 
-    - [ ] Define initial security principles
+- [ ] Define initial security principles
 - [ ] Add least-privilege database and IAM guidance
 - [ ] Add container/dependency scanning strategy
 - [ ] Create first policy-as-code examples
