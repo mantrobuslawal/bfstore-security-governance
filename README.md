@@ -1,5 +1,7 @@
 # bfstore Security Governance
 
+![bfstore - Borough Furniture Store logo](bfstore_security_governance_logo.png)
+
 Security governance and DevSecOps controls for bfstore, including policy-as-code, supply-chain security, scanning, least privilege, threat modelling, and platform guardrails.
 
 ## Repository status
